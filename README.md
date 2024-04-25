@@ -1,0 +1,2 @@
+# MotionBeam
+MotionBeam pursued the idea of controlling devices when people are recognized. The project was originally developed to control projectors in museums when a visitor enters the room. However, the development of the project was later discontinued as a new programming platform was chosen due to the switch to ESP-32. MotionBeam has a web interface where you can switch sections on and off to recognize people, it also has a basic configuration.
